@@ -6,12 +6,12 @@
   },
   "cupboard": {
     "text": "I have never been, but I hear you can find the nicest treats in cupboards",
-    "img": "./assets/images/cupboard.jpg",
+    "img": "./assets/images/cupboard.JPG",
     "alt": "A rat on a bookshelf"
   },
   "adventure": {
     "text": "Rats are particularly good at adventures!",
-    "img": "./assets/images/adventure.jpg",
+    "img": "./assets/images/adventure.JPG",
     "alt": "A rat is sitting on a curtain wire"
   },
   "science": {
@@ -26,7 +26,7 @@
   },
   "human": {
     "text": "Yes, this is the ideal food for a rat",
-    "img": "./assets/images/human.jpg",
+    "img": "./assets/images/human.JPG",
     "alt": "A baby rat is sat next to a jar of peanut butter"
   },
   "chomp": {
