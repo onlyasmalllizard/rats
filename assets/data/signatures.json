@@ -1,0 +1,42 @@
+[
+  {
+    "img": "./assets/images/Biscuits.JPG",
+    "name": "Biscuits",
+    "alt": "A rat hiding under a duvet"
+  },
+  {
+    "img": "./assets/images/Nori.jpg",
+    "name": "Nori",
+    "alt": "A rat standing on a pillow"
+  },
+  {
+    "img": "./assets/images/Hippo.jpg",
+    "name": "Hippo",
+    "alt": "A rat peering out of a cage door"
+  },
+  {
+    "img": "./assets/images/Syd.JPG",
+    "name": "Syd",
+    "alt": "A rat in a hollowed out coconut"
+  },
+  {
+    "img": "./assets/images/Balthazar.jpg",
+    "name": "Balthazar",
+    "alt": "A rat peering up at the camera"
+  },
+  {
+    "img": "./assets/images/Fennel.jpg",
+    "name": "Fennel",
+    "alt": "A rat lying in a hammock, looking sleepy"
+  },
+  {
+    "img": "./assets/images/Ghost.jpg",
+    "name": "Ghost",
+    "alt": "A rat standing on a bed"
+  },
+  {
+    "img": "./assets/images/Sprocket.jpg",
+    "name": "Sprocket",
+    "alt": "A rat partially covered by a duvet"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the correct place for a rat?",
+    "answers": [
+      { "text": "In a pocket", "value": "pocket" },
+      { "text": "In the cupboard with the tasty food", "value": "cupboard" },
+      { "text": "On an adventure", "value": "adventure" }
+    ]
+  },
+  {
+    "question": "What is the best food for a rat?",
+    "answers": [
+      { "text": "Science!", "value": "science" },
+      { "text": "Seeds", "value": "seeds" },
+      { "text": "Whatever my human is eating", "value": "human" }
+    ]
+  },
+  {
+    "question": "What is a rat's favourite thing to do?",
+    "answers": [
+      { "text": "Chomp", "value": "chomp" },
+      { "text": "Stand on my brother's head", "value": "squish" },
+      { "text": "Bother", "value": "bother" }
+    ]
+  }
+]
