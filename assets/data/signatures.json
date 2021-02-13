@@ -1,6 +1,6 @@
 [
   {
-    "img": "./assets/images/Biscuits.JPG",
+    "img": "./assets/images/Biscuits.jpg",
     "name": "Biscuits",
     "alt": "A rat hiding under a duvet"
   },
@@ -15,7 +15,7 @@
     "alt": "A rat peering out of a cage door"
   },
   {
-    "img": "./assets/images/Syd.JPG",
+    "img": "./assets/images/Syd.jpg",
     "name": "Syd",
     "alt": "A rat in a hollowed out coconut"
   },
