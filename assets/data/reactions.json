@@ -26,7 +26,7 @@
   },
   "human": {
     "text": "Yes, this is the ideal food for a rat",
-    "img": "./assets/images/human.JPG",
+    "img": "./assets/images/human.jpg",
     "alt": "A baby rat is sat next to a jar of peanut butter"
   },
   "chomp": {
